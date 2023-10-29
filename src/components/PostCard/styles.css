@@ -1,0 +1,12 @@
+.post-card-content{
+    padding: 30px;
+}
+
+.post-content:hover{
+    scale: 1.05;
+}
+
+.posts img{
+    max-width: 100%;
+}
+  
