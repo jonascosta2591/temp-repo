@@ -5,4 +5,8 @@ eval "$(ssh-agent -s)"
 iniciando o git
 git init
 git config --global user.name "jonas costa"
-git config --global user.email = "jonascosta0299@gmail.com	" 
+git config --global user.email = "jonascosta0299@gmail.com"
+git remote add origin git@github.com:jonascosta2591/temp-repo.git
+git add .
+git commit -m 'initial'
+git push origin master
