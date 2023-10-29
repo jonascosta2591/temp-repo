@@ -11,4 +11,5 @@ git add .
 git commit -m 'initial'
 git push origin master
 
-oi
+ssh-add '/c/Users/jonas/.ssh/github'
+
